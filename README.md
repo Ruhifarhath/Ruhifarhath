@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ruhifarhath" alt="ruhifarhath" /></a> </p>
 
-- 🔭 I’m currently working on **AI project**
+- 🔭 I’m currently working on **Full Stack Project**
 
-- 💬 Ask me about **django, c++**
+- 💬 Ask me about **React, Javascript, MongoDB, Typescript, Nodejs, Express.js, django, c++**
 
 - 📫 How to reach me **ruhifarhath123@gmail.com**
 
